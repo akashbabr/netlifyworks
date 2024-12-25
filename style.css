@@ -49,9 +49,6 @@ button{
    color: white;
    font-weight: bold;
 }
-.attribution{
-   margin-left: 15%;
-   color: white;
-   font-size: medium;
-   text-decoration: none;
+.div{
+    text-align: center;
 }
